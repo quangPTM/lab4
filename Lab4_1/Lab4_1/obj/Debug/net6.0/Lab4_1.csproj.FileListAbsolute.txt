@@ -1,0 +1,14 @@
+D:\PRN211\project\Lab4_1\Lab4_1\bin\Debug\net6.0\Lab4_1.exe
+D:\PRN211\project\Lab4_1\Lab4_1\bin\Debug\net6.0\Lab4_1.deps.json
+D:\PRN211\project\Lab4_1\Lab4_1\bin\Debug\net6.0\Lab4_1.runtimeconfig.json
+D:\PRN211\project\Lab4_1\Lab4_1\bin\Debug\net6.0\Lab4_1.dll
+D:\PRN211\project\Lab4_1\Lab4_1\bin\Debug\net6.0\Lab4_1.pdb
+D:\PRN211\project\Lab4_1\Lab4_1\obj\Debug\net6.0\Lab4_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\project\Lab4_1\Lab4_1\obj\Debug\net6.0\Lab4_1.AssemblyInfoInputs.cache
+D:\PRN211\project\Lab4_1\Lab4_1\obj\Debug\net6.0\Lab4_1.AssemblyInfo.cs
+D:\PRN211\project\Lab4_1\Lab4_1\obj\Debug\net6.0\Lab4_1.csproj.CoreCompileInputs.cache
+D:\PRN211\project\Lab4_1\Lab4_1\obj\Debug\net6.0\Lab4_1.dll
+D:\PRN211\project\Lab4_1\Lab4_1\obj\Debug\net6.0\refint\Lab4_1.dll
+D:\PRN211\project\Lab4_1\Lab4_1\obj\Debug\net6.0\Lab4_1.pdb
+D:\PRN211\project\Lab4_1\Lab4_1\obj\Debug\net6.0\Lab4_1.genruntimeconfig.cache
+D:\PRN211\project\Lab4_1\Lab4_1\obj\Debug\net6.0\ref\Lab4_1.dll
